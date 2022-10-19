@@ -37,19 +37,19 @@ To earn your Hacktoberfest tee or tree reward, you must register and make four v
 ## Rules To Contribute To This Repo
 
 -   Use any language.
--   C, C++, JAVA, Data Structure and Algorithms, HTML, CSS.
 -   Anything valuable.
+-   Please try to avoid repeating something already here.
+-   Please try to stick to folder structure. If your language doesn't have a folder yet, please create one and put your code there.
 
 ## Steps For Contribution
 
-    1. Fork this repo
-    2. Star this repo
-    3. Add a file
-    4. commit the code
-    5. Make pull request
+    1. Fork this repo    
+    2. Make changes
+    3. Commit the code
+    4. Make pull request
 ***
 <h2 align="center">
     <p>
-        Thank You
+        &#x1F49C;Thank You&#x1F49C;
     </p>
 </h2>
