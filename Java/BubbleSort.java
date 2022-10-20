@@ -1,4 +1,3 @@
-package Java;
 public class BubbleSort {
     void bubbleSort(int[] arr) {
         int n = arr.length;
@@ -14,7 +13,8 @@ public class BubbleSort {
 
     /* Prints the array */
     void printArray(int[] arr) {
-        for (int i :arr)
+    int n = arr.length;
+       for (int i = 0; i < n - 1; i++)
             System.out.print(arr[i] + " ");
         System.out.println();
     }
